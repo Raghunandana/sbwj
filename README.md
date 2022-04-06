@@ -2,6 +2,7 @@
 Spring Boot Application for add and list Suburb and Postcodes
 
 
+Service description is given below
 
 Post Code API
 	URL :  http://192.168.1.10:9080/
