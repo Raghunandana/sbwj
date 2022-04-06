@@ -1,2 +1,2 @@
 # sbwj
-Spring Boot Application for the add and list Suburba and Postcodes
+Spring Boot Application for add and list Suburb and Postcodes
